@@ -29,12 +29,14 @@ RowLayout {
     Label {
         font.family: "Lato"
         font.pointSize: root.height / 75
+        font.hintingPreference: Font.PreferNoHinting
         text: Qt.formatDateTime(timeSource.data["Local"]["DateTime"], " ddd dd MMMM,")
         renderType: Text.QtRendering
     }
     Label {
         font.family: "Lato"
         font.pointSize: root.height / 75
+        font.hintingPreference: Font.PreferNoHinting
         text: Qt.formatTime(timeSource.data["Local"]["DateTime"])
         renderType: Text.QtRendering
     }
