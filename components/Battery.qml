@@ -37,7 +37,7 @@ Row {
         id: batteryLabel
         height: undefined
         font.family: "Lato"
-        font.pointSize: root.height/75
+        font.pointSize: 10
         font.hintingPreference: Font.PreferNoHinting
         renderType: Text.QtRendering
         text: i18nd("plasma_lookandfeel_org.kde.lookandfeel","%1%", battery.percent)
