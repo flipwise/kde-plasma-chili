@@ -6,7 +6,7 @@ This means:
 - Lato as the default font
 - Usernames are bolded
 - Added code to turn off font hinting 
-
+- Fontsizes were too big -> 10pt is everyhwere, only the username is 11pt
 ### License
 
 This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE.md) for details
