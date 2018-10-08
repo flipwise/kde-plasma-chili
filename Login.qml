@@ -45,7 +45,7 @@ SessionManagementScreen {
         Layout.fillWidth: true
         Layout.minimumHeight: 24
         implicitHeight: root.height / 28
-        font.family: "Noto Sans"
+        font.family: "Lato"
         font.pointSize: root.height / 75
         opacity: 0.5
         text: lastUserName
@@ -66,7 +66,7 @@ SessionManagementScreen {
         Layout.fillWidth: true
         Layout.minimumHeight: 24
         implicitHeight: root.height / 28
-        font.family: "Noto Sans"
+        font.family: "Lato"
         font.pointSize: root.height / 85
         opacity: 0.5
         placeholderText: i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Password")
