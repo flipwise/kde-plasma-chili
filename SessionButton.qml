@@ -29,7 +29,7 @@ PlasmaComponents.ToolButton {
     property int currentIndex: -1
 
     visible: menu.items.length > 1
-    font.family: "Noto Sans"
+    font.family: "Lato"
     font.pointSize: footer.parent.height / 75
 
     text: instantiator.objectAt(currentIndex).text || ""
