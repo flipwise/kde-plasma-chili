@@ -43,8 +43,8 @@ Item {
             horizontalCenter: parent.horizontalCenter
         }
 
-        width: iconSize
-        height: iconSize
+        width: 48
+        height: 48
 
         colorGroup: PlasmaCore.ColorScope.colorGroup
         active: mouseArea.containsMouse || root.activeFocus
