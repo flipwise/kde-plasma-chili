@@ -47,6 +47,7 @@ SessionManagementScreen {
         implicitHeight: root.height / 28
         font.family: "Lato"
         font.pointSize: root.height / 75
+        font.hintingPreference: Font.PreferNoHinting
         opacity: 0.5
         text: lastUserName
         visible: showUsernamePrompt
@@ -68,6 +69,7 @@ SessionManagementScreen {
         implicitHeight: root.height / 28
         font.family: "Lato"
         font.pointSize: root.height / 85
+        font.hintingPreference: Font.PreferNoHinting
         opacity: 0.5
         placeholderText: i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Password")
         focus: !showUsernamePrompt || lastUserName
