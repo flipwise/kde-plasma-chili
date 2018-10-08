@@ -32,7 +32,6 @@ PlasmaComponents.ToolButton {
     font.family: "Lato"
     font.pointSize: footer.parent.height / 75
     font.hintingPreference: Font.PreferNoHinting
-    renderType: Text.QtRendering
 
     text: instantiator.objectAt(currentIndex).text || ""
 
