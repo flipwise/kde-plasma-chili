@@ -7,6 +7,7 @@ This means:
 - Usernames are bolded
 - Added code to turn off font hinting 
 - Fontsizes were too big -> 10pt is everyhwere, only the username is 11pt
+- Action buttons were too small -> set icon size to 48pt
 ### License
 
 This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE.md) for details
