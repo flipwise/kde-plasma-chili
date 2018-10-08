@@ -93,6 +93,8 @@ Item {
     PlasmaComponents.Label {
         id: usernameDelegate
         font.family: "Lato"
+        font.bold: true
+        font.weight: Font.Bold
         font.pointSize: root.height / 60
         font.hintingPreference: Font.PreferNoHinting
         renderType: Text.QtRendering
