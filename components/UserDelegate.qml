@@ -95,7 +95,7 @@ Item {
         font.family: "Lato"
         font.bold: true
         font.weight: Font.Bold
-        font.pointSize: root.height / 60
+        font.pointSize: 11
         font.hintingPreference: Font.PreferNoHinting
         renderType: Text.QtRendering
         font.capitalization: Font.Capitalize
