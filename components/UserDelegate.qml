@@ -94,6 +94,7 @@ Item {
         id: usernameDelegate
         font.family: "Lato"
         font.pointSize: root.height / 60
+        font.hintingPreference: Font.PreferNoHinting
         renderType: Text.QtRendering
         font.capitalization: Font.Capitalize
         anchors {
