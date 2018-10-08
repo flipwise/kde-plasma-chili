@@ -1,15 +1,15 @@
 [SddmGreeterTheme]
-Name=Chili for Plasma
+Name=Fili's Chili for Plasma
 Description=The hottest theme for KDE Plasma
-Author=Marian Alexander Arlt
+Author=Marian Alexander Arlt (main); flipwise (modifications)
 License=GPLv3
 Type=sddm-theme
-Version=0.5.2
-Website=https://github.com/MarianArlt/kde-plasma-chili
+Version=18.10
+Website=https://github.com/flipwise/kde-plasma-chili/
 Screenshot=preview.png
 MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
-Email=marianarlt@icloud.com
+Email=
 Theme-Id=plasma-chili
 Theme-API=2.0
