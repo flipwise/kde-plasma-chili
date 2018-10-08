@@ -13,6 +13,7 @@ PlasmaComponents.ToolButton {
 
     font.family: "Lato"
     font.pointSize: root.height/75
+    font.hintingPreference: Font.PreferNoHinting
     // text: instantiator.objectAt(currentIndex).shortName
     visible: menu.items.length > 1
     anchors.left: parent.left
