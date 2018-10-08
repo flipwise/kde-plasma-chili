@@ -31,6 +31,7 @@ PlasmaComponents.ToolButton {
     visible: menu.items.length > 1
     font.family: "Lato"
     font.pointSize: footer.parent.height / 75
+    font.hintingPreference: Font.PreferNoHinting
 
     text: instantiator.objectAt(currentIndex).text || ""
 
