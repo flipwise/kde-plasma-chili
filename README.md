@@ -4,7 +4,6 @@ Fili's Chili is mereley an adaptation of the [Chili theme](https://github.com/Ma
 
 This means:
 - Lato as the default font
-- Enforce QtRendering everywere in order to avoid bad kerning
 - Usernames are bolded
 - Added code to turn off font hinting 
 
