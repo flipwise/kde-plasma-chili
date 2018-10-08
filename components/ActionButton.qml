@@ -54,6 +54,7 @@ Item {
         id: label
         font.family: "Lato"
         font.pointSize: mainStack.parent.height / 75
+        font.hintingPreference: Font.PreferNoHinting
         renderType: Text.QtRendering
         anchors {
             top: icon.bottom
