@@ -36,7 +36,7 @@ Row {
     PlasmaComponents.Label {
         id: batteryLabel
         height: undefined
-        font.family: "Noto Sans"
+        font.family: "Lato"
         font.pointSize: root.height/75
         renderType: Text.QtRendering
         text: i18nd("plasma_lookandfeel_org.kde.lookandfeel","%1%", battery.percent)
