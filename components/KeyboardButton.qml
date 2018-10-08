@@ -11,7 +11,7 @@ PlasmaComponents.ToolButton {
 
     property int currentIndex: -1
 
-    font.family: "Noto Sans"
+    font.family: "Lato"
     font.pointSize: root.height/75
     // text: instantiator.objectAt(currentIndex).shortName
     visible: menu.items.length > 1
