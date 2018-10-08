@@ -92,7 +92,7 @@ Item {
 
     PlasmaComponents.Label {
         id: usernameDelegate
-        font.family: "Noto Sans"
+        font.family: "Lato"
         font.pointSize: root.height / 60
         renderType: Text.QtRendering
         font.capitalization: Font.Capitalize
