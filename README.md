@@ -1,6 +1,6 @@
 # Fili's Chili login theme for KDE Plasma
 
-![Screenshot of the theme](preview_test.png "Preview")
+![Screenshot of the theme](preview_testing.png "Preview")
 
 Fili's Chili is mereley an adaptation of the [Chili theme](https://github.com/MarianArlt/kde-plasma-chili) based on my personal preferences and for my personal use.
 
