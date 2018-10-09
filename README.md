@@ -8,6 +8,7 @@ This means:
 - Added code to turn off font hinting 
 - Fontsizes were too big -> 10pt is everyhwere, only the username is 11pt
 - Action buttons were too small -> set icon size to 48pt
+- The height of the password box is slightly reduced because it was disproportionate with the height of the text in it
 ### License
 
 This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE.md) for details
