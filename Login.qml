@@ -65,8 +65,8 @@ SessionManagementScreen {
     PlasmaComponents.TextField {
         id: passwordBox
         Layout.fillWidth: true
-        Layout.minimumHeight: 24
-        implicitHeight: root.height / 28
+        Layout.minimumHeight: 20
+        implicitHeight: root.height / 32
         font.family: "Lato"
         font.pointSize: 10
         font.hintingPreference: Font.PreferNoHinting
