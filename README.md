@@ -14,7 +14,7 @@ This means:
 - The height of the password box is slightly reduced -> it was disproportionate with the height of the text in it
 - The opacity of unselected action buttons is increased from 60% to 70% -> aesthetic preference
 
-Note: the icons have to be changed according to [these tips](https://bugs.kde.org/show_bug.cgi?id=395027#c10) (Manjaro users should change system.svgz in the ```/usr/share/plasma/desktoptheme/breath/icons folder```
+Note: the icons have to be changed according to [these tips](https://bugs.kde.org/show_bug.cgi?id=395027#c10) (Manjaro users should change system.svgz in the ```/usr/share/plasma/desktoptheme/breath/icons``` folder
 
 ### License
 
