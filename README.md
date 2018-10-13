@@ -5,13 +5,15 @@
 Fili's Chili is mereley an adaptation of the [Chili theme](https://github.com/MarianArlt/kde-plasma-chili) (version 0.5.2) based on my personal preferences and for my personal use.
 
 This means:
-- Lato as the default font
-- Usernames are bolded
-- Added code to turn off font hinting 
-- Fontsizes were too big -> 10pt is everyhwere, only the username is 11pt
-- Action buttons were too small -> set icon size to 48pt
-- The height of the password box is slightly reduced because it was disproportionate with the height of the text in it
-- The opacity of unselected action buttons is increased from 60% to 70%
+- Lato as the default font -> match the font in the session
+- Usernames are bolded -> aesthetic preference
+- Font hinting is turned off -> hinting distorts typefaces 
+(the alternative may be copy fontconfig from .config into var/lib/sddm/.conf, but I am not sure this works 100%)
+- Fontsizes changed to 10pt, the username is 11pt > they seemed too big before
+- Action buttons' icon size set to 48px -> they seemed to small 
+- The height of the password box is slightly reduced -> it was disproportionate with the height of the text in it
+- The opacity of unselected action buttons is increased from 60% to 70% -> aesthetic preference
+
 ### License
 
 This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE.md) for details
