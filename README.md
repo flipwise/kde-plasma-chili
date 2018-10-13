@@ -2,7 +2,7 @@
 
 ![Screenshot of the theme](preview.png "Preview")
 
-Fili's Chili is mereley an adaptation of the [Chili theme](https://github.com/MarianArlt/kde-plasma-chili) based on my personal preferences and for my personal use.
+Fili's Chili is mereley an adaptation of the [Chili theme](https://github.com/MarianArlt/kde-plasma-chili) (version 0.5.2) based on my personal preferences and for my personal use.
 
 This means:
 - Lato as the default font
