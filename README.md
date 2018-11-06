@@ -4,6 +4,8 @@
 
 Fili's Chili is mereley an adaptation of the [Chili theme](https://github.com/MarianArlt/kde-plasma-chili) (version 0.5.2) based on my personal preferences and for my personal use.
 
+*optimized for a 15" FHD screen = it will look too big on a normal screen*
+
 This means:
 - Lato as the default font -> match the font in the session
 - Usernames are bolded -> aesthetic preference
